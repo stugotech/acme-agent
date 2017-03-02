@@ -17,7 +17,7 @@ const (
 	listenDefault      = ":8080"
 	logFlag            = "log"
 	logDefault         = "info"
-	pathPrefixFlag     = "pathPrexix"
+	pathPrefixFlag     = "path-prefix"
 	pathPrefixDefault  = ".well-known/acme-challenge"
 	storeFlag          = "store"
 	storeDefault       = "etcd"
